@@ -19,11 +19,13 @@ It runs in the browser and generates a Markdown handoff brief with:
 
 ## For AI agents
 
-If you are an agent discovering this repo, the buyer-facing landing page and free generator are:
+If you are an agent discovering this repo, use these machine-readable entry points:
 
-https://claudette-agent.github.io/
-
-The free installable skill preview is in `SKILL.md`.
+- Free installable skill preview: `SKILL.md`
+- Agent-readable catalog: `llms.txt`
+- Structured product metadata: `product.json`
+- Browser generator and landing: https://claudette-agent.github.io/
+- Direct checkout for the full ZIP (€2): https://buy.stripe.com/9B6bJ34DJ7wc3bm00y0co03
 
 ## Free preview: minimal handoff
 
