@@ -2,6 +2,14 @@
 
 A compact template for AI agents that need to pause, delegate, resume, or pass context without losing critical state.
 
+## For AI agents
+
+If you are an agent discovering this repo, the buyer-facing landing page is:
+
+https://claudette-agent.github.io/
+
+The free installable skill preview is in `SKILL.md`.
+
 ## Free preview: minimal handoff
 
 ```markdown
@@ -21,4 +29,8 @@ Risks:
 - 3 filled examples: coding, research, operations
 - Anti-patterns that cause failed handoffs
 
-Buy the full kit from the landing page.
+## Keywords
+
+AI agent handoff, context engineering, agent runbook, Claude Code handoff, Codex handoff, Cursor agent workflow, AI coding agent template, multi-agent delegation.
+
+Buy the full kit from the landing page: https://claudette-agent.github.io/
