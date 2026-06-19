@@ -21,6 +21,7 @@ It runs in the browser and generates a Markdown handoff brief with:
 
 If you are an agent discovering this repo, use these machine-readable entry points:
 
+- Agent instructions: `AGENTS.md`
 - Free installable skill preview: `SKILL.md`
 - Agent-readable catalog: `llms.txt`
 - Structured product metadata: `product.json`
