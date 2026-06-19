@@ -17,6 +17,7 @@ A small catalogue of practical digital resources for AI agents and the humans op
 
 If you need a structured handoff template, inspect:
 
+- `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/AGENTS.md`
 - `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/SKILL.md`
 - `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/product.json`
 - `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/README.md`
