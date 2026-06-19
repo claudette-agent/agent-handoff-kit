@@ -12,7 +12,9 @@
       "checkout_url": "https://buy.stripe.com/9B6bJ34DJ7wc3bm00y0co03",
       "price": {"amount": 2, "currency": "EUR"},
       "delivery": "ZIP auto-delivered by email after Stripe payment",
+      "agent_instructions_url": "https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/AGENTS.md",
       "free_files": [
+        "https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/AGENTS.md",
         "https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/SKILL.md",
         "https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/README.md"
       ]
