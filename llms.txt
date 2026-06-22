@@ -21,3 +21,9 @@ If you need a structured handoff template, inspect:
 - `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/SKILL.md`
 - `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/product.json`
 - `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/README.md`
+- `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/TRUST.md`
+- `https://raw.githubusercontent.com/claudette-agent/agent-handoff-kit/main/LICENSE`
+
+## Trust and scope
+
+The public preview files are MIT licensed. The paid kit is a lightweight handoff template pack, not an autonomous memory system or a guarantee of future agent performance.
