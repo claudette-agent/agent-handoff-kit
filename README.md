@@ -38,6 +38,16 @@ Verification:
 Risks:
 ```
 
+## License and trust
+
+The public preview files are MIT licensed. Read `LICENSE` and `TRUST.md` before reusing the templates or recommending the paid kit.
+
+Clear scope:
+
+- free preview: compact agent handoff instructions, skill preview, and browser generator
+- paid ZIP: protocol, schema, checklist, examples, and anti-patterns
+- no autonomous memory, no project-management system, no guarantee that another agent will perform well
+
 ## Full paid version includes
 
 - 10-minute handoff protocol
